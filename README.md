@@ -1,2 +1,5 @@
 # hello-world
-First repository created by myself
+临时仓库，存放学习、练习等文件
+
+## 练习分支
+创建分支，进行文件编辑等操作。
